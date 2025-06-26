@@ -36,9 +36,9 @@ cd my-website
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+Client: React, Redux, TailwindCSS
 
-**Server:** Node, Express
+Server: Node, Express
 
 my-website/
 ├── client/          → React frontend
