@@ -1,6 +1,6 @@
 
 
-# 🌐 My Website – Full Stack Web App
+# 🌐 edith tech – Full Stack Web App
 
 A full-stack web application built using *React.js* for the frontend and *Node.js + Express* for the backend. It includes user interaction features, form submissions, and email sending functionality.
 
